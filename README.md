@@ -1,7 +1,7 @@
 erl_gp_sdf_msgs
 =================
 
-A ROS package for geometry messages to transmit data structures in erl_geometry.
+A ROS package that defines messages, services, and actions for [erl_gp_sdf](https://github.com/ExistentialRobotics/erl_gp_sdf).
 
 # Install
 

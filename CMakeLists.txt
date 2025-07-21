@@ -12,8 +12,8 @@ endif ()
 erl_project_setup()
 
 erl_setup_ros(
-    CATKIN_COMPONENTS roscpp std_msgs geometry_msgs message_generation #
-    CATKIN_DEPENDS roscpp std_msgs geometry_msgs message_runtime #
+    CATKIN_COMPONENTS std_msgs geometry_msgs message_generation #
+    CATKIN_DEPENDS std_msgs geometry_msgs message_runtime #
     SRV_FILES SdfQuery.srv SaveMap.srv #
     MSG_DEPENDENCIES std_msgs geometry_msgs #
     ROS2_COMPONENTS std_msgs geometry_msgs)

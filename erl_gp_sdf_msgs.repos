@@ -1,0 +1,9 @@
+repositories:
+    erl_cmake_tools:
+        type: git
+        url: https://github.com/ExistentialRobotics/erl_cmake_tools.git
+        version: v0.1.0
+    erl_gp_sdf_msgs:
+        type: git
+        url: https://github.com/ExistentialRobotics/erl_gp_sdf_msgs.git
+        version: main

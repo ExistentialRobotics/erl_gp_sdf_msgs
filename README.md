@@ -1,8 +1,10 @@
 # erl_gp_sdf_msgs
 
+[![Tags](https://img.shields.io/github/v/tag/ExistentialRobotics/erl_gp_sdf_msgs?label=version)](https://github.com/ExistentialRobotics/erl_gp_sdf_msgs/tags)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ROS1](https://img.shields.io/badge/ROS1-noetic-blue)](http://wiki.ros.org/)
 [![ROS2](https://img.shields.io/badge/ROS2-humble-blue)](https://docs.ros.org/)
+[![ROS2](https://img.shields.io/badge/ROS2-jazzy-blue)](https://docs.ros.org/)
 
 **A ROS package that defines messages, services, and actions for 🚪[erl_gp_sdf](https://github.com/ExistentialRobotics/erl_gp_sdf).**
 

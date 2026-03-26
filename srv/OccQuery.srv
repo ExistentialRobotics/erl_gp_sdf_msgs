@@ -1,0 +1,12 @@
+# OccQuery.srv
+# mode: logodd, prob
+
+geometry_msgs/Vector3[] query_points
+string                  mode
+bool                    compute_gradient
+---
+uint8                   dim
+bool                    success
+string                  reason
+float64[]               results
+geometry_msgs/Vector3[] gradients
